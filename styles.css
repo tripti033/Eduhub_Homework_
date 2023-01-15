@@ -1,0 +1,47 @@
+body {
+    
+    background-image: url("https://static.vecteezy.com/system/resources/previews/001/872/774/non_2x/abstract-black-geometric-polygonal-form-background-with-space-for-your-text-vector.jpg");
+    
+}
+
+  h1 {
+    font-weight: bold;
+    text-align: center;
+    color:white;
+  }
+ 
+
+  hr {
+    border: 20;
+    height: 1px;
+    width:250px;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .form-box {
+    background-color:black;
+    opacity:0.6;
+    padding: 20px;
+    text-align: center;
+    width:500px;
+    margin-left: 300px;
+    box-shadow: 0px 0px 10px 0px grey;
+    
+  }
+  label{
+    color:white;
+  }
+
+  input[type="submit"] {
+    background-color: blue;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
+
+  input[type="submit"]:hover {
+    background-color: darkblue;
+  }
